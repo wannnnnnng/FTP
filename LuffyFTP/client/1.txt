@@ -1,0 +1,2 @@
+python luffy_server.py start
+python luffy_client.py -s localhost -p 9999
